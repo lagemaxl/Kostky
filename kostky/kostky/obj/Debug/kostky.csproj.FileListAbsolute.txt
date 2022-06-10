@@ -1,0 +1,10 @@
+C:\Users\ladik\source\repos\kostky\kostky\obj\Debug\kostky.csproj.AssemblyReference.cache
+C:\Users\ladik\source\repos\kostky\kostky\obj\Debug\kostky.Form1.resources
+C:\Users\ladik\source\repos\kostky\kostky\obj\Debug\kostky.Properties.Resources.resources
+C:\Users\ladik\source\repos\kostky\kostky\obj\Debug\kostky.csproj.GenerateResource.cache
+C:\Users\ladik\source\repos\kostky\kostky\obj\Debug\kostky.csproj.CoreCompileInputs.cache
+C:\Users\ladik\source\repos\kostky\kostky\bin\Debug\kostky.exe.config
+C:\Users\ladik\source\repos\kostky\kostky\bin\Debug\kostky.exe
+C:\Users\ladik\source\repos\kostky\kostky\bin\Debug\kostky.pdb
+C:\Users\ladik\source\repos\kostky\kostky\obj\Debug\kostky.exe
+C:\Users\ladik\source\repos\kostky\kostky\obj\Debug\kostky.pdb
